@@ -1,0 +1,12 @@
+.footer {
+	background: #2c2c2c;
+	position: relative;
+	z-index: 9999;
+	color: #f7f7f7;
+	text-shadow: 1px 1px #111;
+
+	.container {
+		display: flex;
+		justify-content: space-between;
+	}
+}
